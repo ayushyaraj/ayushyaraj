@@ -1,8 +1,6 @@
 <!--Typing SVG Header-->
 <h1 align="center">
-  <a href="https://github.com/ayushyaraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C56A90&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayushya!;Software+Developer;B.Tech+CSE+'26+%7C+KIIT+University;Building+at+the+intersection+of+code%2C+data+%26+design" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C56A90&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayushya!;Software+Developer;Frontend+%C2%B7+Backend+%C2%B7+Design+%C2%B7+Data;Building+at+the+intersection;of+code%2C+data+%26+design" alt="Typing SVG" />
 </h1>
 
 <!--Owl-->
@@ -13,7 +11,7 @@
 <!--About Me-->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> ᴀʙᴏᴜᴛ ᴍᴇ
 
-I am a **Software Developer** with a foundation across **full stack web, data analytics and design**, comfortable moving from React components to Python data pipelines to Figma design systems. I like building things that ship: web apps, dashboards, workflow automations and brand systems.
+I am a **Software Developer** with a foundation across **full stack web, data analytics and design**, comfortable moving from React components to Node.js APIs to Python data pipelines to Figma design systems. I like building things that ship: web apps, dashboards, workflow automations and brand systems.
 
 - 🎓 Recent **B.Tech in Computer Science and Engineering** graduate from **KIIT University** (CGPA 8.01)
 - 🌱 Currently deepening my craft in **advanced React patterns, backend architecture and data engineering**
@@ -26,47 +24,60 @@ I am a **Software Developer** with a foundation across **full stack web, data an
 
 ---
 
-<!--Tech Stack with side-by-side layout: Skills animation on left, badges on right-->
+<!--Tech Stack-->
 <h2 align="center">🛠 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-<table>
-  <tr>
-    <td width="42%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Skills animation" width="100%" />
-    </td>
-    <td width="58%" valign="middle">
-      <h4>Languages</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,mysql" />
-      </p>
-      <h4>Frontend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-      </p>
-      <h4>Backend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-      </p>
-      <h4>Data & Analytics</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-      </p>
-      <h4>Design</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
-        <img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-      </p>
-      <h4>Tools & Workflow</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Skills animation" width="550" />
+  </picture>
+</p>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,mysql" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+<h4 align="center">Data & Analytics</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<h4 align="center">Design</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
+  <img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+<h4 align="center">AI & LLM Workflows</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automations-000000?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
+
+<h4 align="center">Tools & Workflow</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 <br />
 
