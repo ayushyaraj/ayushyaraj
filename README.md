@@ -1,7 +1,7 @@
 <!--Typing SVG Header-->
 <h1 align="center">
   <a href="https://github.com/ayushyaraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ayushya!;Software+Developer;B.Tech+CSE+'26+%7C+KIIT+University;Building+at+the+intersection+of+code%2C+data+%26+design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C56A90&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayushya!;Software+Developer;B.Tech+CSE+'26+%7C+KIIT+University;Building+at+the+intersection+of+code%2C+data+%26+design" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -26,55 +26,47 @@ I am a **Software Developer** with a foundation across **full stack web, data an
 
 ---
 
-<!--Tech Stack-->
+<!--Tech Stack with side-by-side layout: Skills animation on left, badges on right-->
 <h2 align="center">🛠 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,mysql" />
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
-</p>
-
-<h4 align="center">Backend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
-
-<h4 align="center">Data & Analytics</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-<h4 align="center">Design</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
-  <img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-<h4 align="center">Tools & Workflow</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
-
-<br />
-
----
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyaraj&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" />
-</div>
+<table>
+  <tr>
+    <td width="42%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Skills animation" width="100%" />
+    </td>
+    <td width="58%" valign="middle">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,mysql" />
+      </p>
+      <h4>Frontend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+      </p>
+      <h4>Backend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+      </p>
+      <h4>Data & Analytics</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+      </p>
+      <h4>Design</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,xd" />
+        <img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+      </p>
+      <h4>Tools & Workflow</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
