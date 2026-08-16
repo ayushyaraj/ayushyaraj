@@ -1,6 +1,6 @@
 <!--Typing SVG Header-->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C56A90&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayushya!;Software+Developer;Frontend+%C2%B7+Backend+%C2%B7+Design+%C2%B7+Data;Building+at+the+intersection;of+code%2C+data+%26+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=C56A90&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayushya!;Software+Developer;Systems+%C2%B7+Signals+%C2%B7+Stories;Building+at+the+intersection;of+Tech%2C+data+%26+design" alt="Typing SVG" />
 </h1>
 
 <!--Owl-->
@@ -31,6 +31,15 @@ I am a **Software Developer** with a foundation across **full stack web, data an
   <picture>
     <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Skills animation" width="550" />
   </picture>
+</p>
+
+<h4 align="center">AI & LLM Workflows</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automations-000000?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 
 <h4 align="center">Languages</h4>
@@ -64,14 +73,7 @@ I am a **Software Developer** with a foundation across **full stack web, data an
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-<h4 align="center">AI & LLM Workflows</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Automations-000000?style=for-the-badge&logo=zapier&logoColor=white" />
-</p>
+
 
 <h4 align="center">Tools & Workflow</h4>
 <p align="center">
