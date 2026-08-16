@@ -1,7 +1,7 @@
 <!--Typing SVG Header-->
 <h1 align="center">
   <a href="https://github.com/ayushyaraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ayushya!;Full+Stack+Developer+%26+Designer;B.Tech+CSE+'26+%7C+KIIT+University;Building+at+the+intersection+of+code%2C+data+%26+design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ayushya!;Software+Developer;B.Tech+CSE+'26+%7C+KIIT+University;Building+at+the+intersection+of+code%2C+data+%26+design" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -10,22 +10,17 @@
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
 </div>
 
-<!--Intro-->
+<!--About Me-->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> ᴀʙᴏᴜᴛ ᴍᴇ
 
-I am a **Full Stack Developer** and **UI/UX Designer** with a foundation in **data analytics**, comfortable moving from React components to Python data pipelines to Figma design systems. I like building things that ship: web apps, dashboards, workflow automations, and brand systems.
+I am a **Software Developer** with a foundation across **full stack web, data analytics and design**, comfortable moving from React components to Python data pipelines to Figma design systems. I like building things that ship: web apps, dashboards, workflow automations and brand systems.
 
 - 🎓 Recent **B.Tech in Computer Science and Engineering** graduate from **KIIT University** (CGPA 8.01)
-- 🌱 Currently deepening my craft in **advanced patterns, backend architecture and data engineering**
+- 🌱 Currently deepening my craft in **advanced React patterns, backend architecture and data engineering**
 - 🎨 My design and web portfolio lives on **[Behance](https://www.behance.net/gallery/252090543/UIUX-Web-Design-Portfolio-202526-Ayushya-Raj)**
 - 💬 Ask me about **full stack web dev, data visualisation or design systems**
 - 📫 Reach me at **ayushyaraj1909@gmail.com**
 - ⚡ Fun fact: I taught myself **design and dev on parallel tracks**, and the two languages talk to each other
-
-<!--Profile Views Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayushyaraj&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" />
-</p>
 
 <br />
 
@@ -74,31 +69,12 @@ I am a **Full Stack Developer** and **UI/UX Designer** with a foundation in **da
 
 ---
 
-<!--Featured Projects-->
-<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
-<p align="center">
-  <a href="https://github.com/ayushyaraj/WeatherDashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushyaraj&repo=WeatherDashboard&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&border_color=c56a90" />
-  </a>
-  <a href="https://github.com/ayushyaraj/PepsalesBackendAssesment-mainupdated">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushyaraj&repo=PepsalesBackendAssesment-mainupdated&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&border_color=c56a90" />
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">🎨 Beyond Code, I Design</h3>
-
-<p align="center">
-I have shipped <b>brand systems, campaign creatives, infographics, UI/UX flows and print collateral</b> for <b>15+ clients</b> across ed-tech, real estate and the social sector. Full portfolio on Behance below.
-</p>
-
-<p align="center">
-  <a href="https://www.behance.net/gallery/252090543/UIUX-Web-Design-Portfolio-202526-Ayushya-Raj">
-    <img src="https://img.shields.io/badge/View_Portfolio_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyaraj&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" />
+</div>
 
 <br />
 
